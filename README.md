@@ -182,7 +182,7 @@ So, increasing target speed num can improve real speed accuracy, but it also dec
 |target speed num |  git|  target and real speed fig| 
 |----|----|----|  
 |normal case(7 target speed)| ![target_speed_7](./MD/assets/1_episode_target_speed_7.gif)| ![target_speed_3_small](./MD/assets/1_episode_target_speed_7.png) |
-|Overshooting(61 target speed)| ![target_speed_61](./MD/assets/1_episode_target_speed_91.gif)| ![target_speed_3_small](./MD/assets/1_episode_target_speed_91.png) | 
+|Overshooting(61 target speed)| ![target_speed_61](./MD/assets/1_episode_target_speed_91.gif)| ![target_speed_3_small](./simulator/MD/assets/1_episode_target_speed_91.png) | 
 
 
 ___run script with rule-based window selection.___
